@@ -290,16 +290,17 @@
         /* 3D Flip Card Candidate Grid */
         .cards-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(320px, 380px));
+            justify-content: center;
             gap: 28px;
-            max-width: 1100px;
+            max-width: 1200px;
             margin: 0 auto;
         }
 
         /* Card 3D Setup */
         .card-container {
             perspective: 1200px;
-            height: 520px;
+            height: 570px;
         }
 
         .card-flipper {
@@ -341,8 +342,9 @@
 
         .card-photo-box {
             position: relative;
-            height: 260px;
-            background: #E8EBF2;
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            background: #F1F5F9;
             overflow: hidden;
             display: flex;
             align-items: center;
@@ -353,7 +355,7 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            object-position: top center;
+            object-position: center;
         }
 
         .photo-placeholder {
@@ -403,7 +405,7 @@
         }
 
         .card-front-body {
-            padding: 28px 22px 20px;
+            padding: 18px 20px 16px;
             flex: 1;
             display: flex;
             flex-direction: column;

@@ -90,7 +90,7 @@
             </div>
             <div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin-top: 4px;">
                 <span style="font-size: 11.5px; background: #FFFFFF; border: 1px solid var(--border); border-radius: 6px; padding: 3px 8px; color: var(--text-sec); font-weight: 500;">
-                    Rasio Saran: 4:3 (800 × 600 px) atau 1:1
+                    Rasio Saran: 1:1 Persegi (800 × 800 px s/d 2000 × 2000 px)
                 </span>
                 <span style="font-size: 11.5px; background: #FFFFFF; border: 1px solid var(--border); border-radius: 6px; padding: 3px 8px; color: var(--text-sec); font-weight: 500;">
                     JPG, PNG, WebP (Maks. 2MB)
