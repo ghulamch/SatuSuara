@@ -11,9 +11,11 @@
   Dirancang khusus untuk Pemilihan OSIS/MPK Sekolah, BEM Universitas, Musyawarah Organisasi, dan Pemilihan Umum Komunitas.
 </p>
 
+<img src="https://portify.ghulam.my.id/img/portfolio/1794214297_SatuSuara%20Light.png"/>
+
 <p align="center">
   <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-8.3%2B%20%2F%208.4%2B-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP Version"></a>
-  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-11.x%20%2F%2012.x-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Framework"></a>
+  <a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel%2013.x-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Framework"></a>
   <a href="https://reverb.laravel.com"><img src="https://img.shields.io/badge/WebSockets-Laravel%20Reverb-E12D39?style=flat-square&logo=laravel" alt="Laravel Reverb"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License"></a>
   <a href="#"><img src="https://img.shields.io/badge/Security%20Audit-All%206%20Patched-166534?style=flat-square&logo=shield" alt="Security Audit"></a>
